@@ -10,15 +10,19 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Giovanni Oliveira Martins Rosa
+- Matricula: 908174
+- Proposta de projeto escolhida: Pessoas Históricas
+- Breve descrição sobre seu projeto: O site apresenta pessoas importantes na história da humanidade e seus feitos.
 
 **Print da tela com a implementação**
 
-<< Coloque aqui uma breve explicação da implementação feita nessa etapa>>
+Nessa etapa, implementei um gráfico pizza com ChartJS feito para apresentar a porcentagem por área da qual a pessoa pertence (esporte, cinema, etc), que estão cadastradas no site.
 
 <<  COLOQUE A IMAGEM TELA 1 AQUI >>
 
+![alt text](<Captura de tela 2026-07-03 141938.png>)
+
 <<  COLOQUE A IMAGEM TELA 2 AQUI >>
+
+![alt text](<Captura de tela 2026-07-03 142604.png>)
